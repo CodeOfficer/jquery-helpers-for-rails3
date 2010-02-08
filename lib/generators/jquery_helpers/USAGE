@@ -1,0 +1,9 @@
+Description:
+    A port of the unobtrusive Prototype helpers in Rails 3 to jQuery.
+
+Example:
+    ./script/generate jquery_helpers
+
+    This will create:
+        public/javascripts/jquery.rails.js
+        public/javascripts/jquery.rails.min.js

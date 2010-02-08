@@ -1,0 +1,19 @@
+
+Usage:
+  rails generate jquery_helpers  [options]
+
+Runtime options:
+  -f, [--force]    # Overwrite files that already exist
+  -p, [--pretend]  # Run but do not make any changes
+  -q, [--quiet]    # Supress status output
+  -s, [--skip]     # Skip files that already exist
+
+Description:
+    A port of the unobtrusive Prototype helpers in Rails 3 to jQuery.
+
+Example:
+    ./script/generate jquery_helpers
+
+    This will create:
+        public/javascripts/jquery.rails.js
+        public/javascripts/jquery.rails.min.js
