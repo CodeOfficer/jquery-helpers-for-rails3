@@ -1,0 +1,6 @@
+pkg
+*.gem
+rdoc
+doc
+coverage
+.autotest
