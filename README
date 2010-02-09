@@ -1,3 +1,5 @@
+Install
+  sudo gem install jquery_helpers
 
 Usage:
   rails generate jquery_helpers  [options]
